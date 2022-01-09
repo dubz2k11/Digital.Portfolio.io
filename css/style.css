@@ -22,7 +22,10 @@ nav a {
   color: black;
 }
 .intro{
+border: 3px solid black;
+width: 20%;
 padding: 90px;
+margin: auto;
 }
 
 footer{
@@ -40,4 +43,10 @@ footer,a{
 }
 footer,li{
   padding:15px;
+}
+.fa-github{
+  color: limegreen;
+}
+.fa-linkedin{
+  color: blue;
 }
